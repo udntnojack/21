@@ -54,7 +54,6 @@ public class Card : MonoBehaviour
             topText.text = "K";
             bottomText.text = "K";
         }
-        Debug.Log(topText.text);
 
 
 
